@@ -12,7 +12,7 @@ let totalHits = 0;
 let lightbox;
 
 const searchParams = new URLSearchParams({
-  key: '42459291-7f50c47c6b19e5b61fce58d70',
+  key: '42666296-dc6a8eb3e0118a9c27d8d7572',
   q: '',
   image_type: 'photo',
   orientation: 'horizontal',
